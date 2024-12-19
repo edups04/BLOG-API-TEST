@@ -1,0 +1,17 @@
+2024-12-11 02:11:12, POST, User, SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`blog api`.`blogpost`, CONSTRAINT `userId_ibfk_1` FOREIGN KEY (`userId`) REFERENCES `users` (`userId`) ON DELETE RESTRICT ON UPDATE CASCADE)
+2024-12-11 02:11:52, POST, User, SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`blog api`.`blogpost`, CONSTRAINT `tagid_ibfk_1` FOREIGN KEY (`tagId`) REFERENCES `tags` (`tagId`) ON DELETE RESTRICT ON UPDATE CASCADE)
+2024-12-11 02:16:28, POST, User, Created a new Blog Post.
+2024-12-11 02:17:11, POST, User, Created a new Blog Post.
+2024-12-11 02:17:36, POST, User, Created a new Blog Post.
+2024-12-11 02:18:03, POST, User, SQLSTATE[42S22]: Column not found: 1054 Unknown column 'userId' in 'field list'
+2024-12-11 02:18:19, POST, User, Created a new Blog Post.
+2024-12-11 02:20:20, POST, User, Successfully commented on a Blog.
+2024-12-11 02:21:25, POST, User, Successfully commented on a Blog.
+2024-12-11 03:49:03, POST, User, Created a new Blog Post.
+2024-12-11 03:52:00, POST, User, Successfully commented on a Blog.
+2024-12-11 09:40:08, POST, User, Created a new Blog Post.
+2024-12-11 09:48:07, POST, User, Created a new Blog Post.
+2024-12-11 09:48:35, POST, User, Created a new Blog Post.
+2024-12-11 09:57:35, POST, User, Created a new Blog Post.
+2024-12-11 09:59:59, POST, User, Created a new Blog Post.
+2024-12-11 10:00:09, POST, User, Created a new Blog Post.

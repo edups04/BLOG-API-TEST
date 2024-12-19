@@ -1,0 +1,22 @@
+INSERT INTO Users (username, password)
+VALUES
+('Batman', 'Bruce2024'),
+('Superman', 'Kent4521'),
+('WonderWoman', 'Diana8765'),
+('TheFlash', 'Flash3419'),
+('Aquaman', 'Arthur5938'),
+('GreenLantern', 'Lantern1290'),
+('Cyborg', 'Victor8347'),
+('Nightwing', 'Night2023'),
+('Robin', 'Jason1248'),
+('Catwoman', 'Selina2947'),
+('Riddler', 'Edward7654'),
+('Joker', 'Joker3021'),
+('HarleyQuinn', 'Harley9872'),
+('Shazam', 'Billy4125'),
+('BlackAdam', 'Teth5234'),
+('Hawkman', 'Carter2134'),
+('Zatanna', 'Zatara6573'),
+('GreenArrow', 'Oliver4321'),
+('Batgirl', 'Barbara3124'),
+('LexLuthor', 'Luthor5612');

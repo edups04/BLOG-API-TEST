@@ -1,0 +1,22 @@
+INSERT INTO UserInfo (firstName, lastName, email)
+VALUES
+('Bruce', 'Wayne', 'batman@gotham.com'),
+('Clark', 'Kent', 'superman@metropolis.com'),
+('Diana', 'Prince', 'wonderwoman@amazon.com'),
+('Barry', 'Allen', 'flash@centralcity.com'),
+('Arthur', 'Curry', 'aquaman@atlantis.com'),
+('Hal', 'Jordan', 'greenlantern@sector2814.com'),
+('Victor', 'Stone', 'cyborg@titans.com'),
+('Dick', 'Grayson', 'nightwing@bludhaven.com'),
+('Jason', 'Todd', 'robin@gotham.com'),
+('Selina', 'Kyle', 'catwoman@gotham.com'),
+('Edward', 'Nygma', 'riddler@gotham.com'),
+('Jack', 'White', 'joker@gotham.com'),
+('Harleen', 'Quinzel', 'harley@arkham.com'),
+('Billy', 'Batson', 'shazam@fawcett.com'),
+('Teth', 'Adam', 'blackadam@kahndaq.com'),
+('Carter', 'Hall', 'hawkman@stroch.com'),
+('Zatanna', 'Zatara', 'zatanna@magic.com'),
+('Oliver', 'Queen', 'greenarrow@starcity.com'),
+('Barbara', 'Gordon', 'batgirl@gotham.com'),
+('Lex', 'Luthor', 'lex@luthorcorp.com');
